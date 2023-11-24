@@ -26,9 +26,6 @@ reconstructed
 restaurado y reconstruido
 salvage
 vehículo recuperado
-finance
-financiamiento disponible
-financed
 adquirido mediante financiamiento
 downpayment
 cuota inicial requerida
