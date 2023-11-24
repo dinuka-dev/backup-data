@@ -1,1 +1,58 @@
-
+dealership
+concesionario
+immediate delivery
+entrega inmediata
+financing
+financiamiento
+store
+tienda
+destruction
+desgaste severo
+flood
+daños por inundación
+water
+exposición al agua
+junk
+vehículo para desguace
+lemon
+vehículo defectuoso
+rollback
+retroceso de odómetro
+parts only
+solo piezas disponibles
+rebuilt
+reconstrucción realizada
+reconstructed
+restaurado y reconstruido
+salvage
+vehículo recuperado
+finance
+financiamiento disponible
+financed
+adquirido mediante financiamiento
+downpayment
+cuota inicial requerida
+project car
+proyecto automotriz en desarrollo
+title issues
+problemas con el título
+mechanic's special
+oferta especial para mecánicos
+special financing
+opciones de financiamiento especial
+discounted price
+precio con descuento
+trade-in deals
+ofertas de intercambio
+custom rebuild
+reconstrucción personalizada
+discounted downpayment
+cuota inicial con descuento
+handyman's dream
+ideal para aficionados al bricolaje
+flexible financing
+financiamiento flexible
+insurance options
+opciones de seguro disponibles
+exclusive dealer offer
+oferta exclusiva del concesionario
